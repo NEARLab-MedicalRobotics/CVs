@@ -3,6 +3,6 @@ git add .
 git commit -m "Update"
 git push
  
-echo "UPDATED AND PUSHED TO ORIGIN" -fore green
+echo "UPDATED AND PUSHED TO ORIGIN"
  
 pause
